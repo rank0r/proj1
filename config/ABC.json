@@ -4,7 +4,6 @@
      "args" : "test123"
     },
     {
-     "module" : "environment",
-     "args" : "test456"
+     "module" : "environment"
     }
 ]
